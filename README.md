@@ -7,7 +7,7 @@ Welcome to my **My Project Experience** repository! This repository contains a c
 ### Project 1: Express Delivery Service System
 - **Description**: System analysis and design were done using diagrams created on draw.io, including Use Case, Data Flow, Class, Activity, State and Sequence Diagrams.
 - **Report**: 
-  - You can view or download the [Express Delivery Service System Report](https://github.com/anniemark2522/project-resume/assets/files/POSTMANpdf.pdf)
+  - You can view or download the [Express Delivery Service System Report](https://github.com/anniemark2522/project-resume/blob/main/assests/files/POSTMANpdf.pdf)
 
   
 <!-- ### 2. **Endangered Species in Thailand - Tableau Dashboard**
