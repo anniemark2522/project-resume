@@ -32,4 +32,21 @@ Welcome to my **My Project Experience** This repository showcases a collection o
 ### Project 5: Police Ticket Management
 - **Description**: Developed a Java ,GUI application with phpMyAdmin for license management, ticketing, order tracking, and payments.
   - You can view source code [Police Ticket Management](https://github.com/anniemark2522/project-resume/blob/main/myapp/nbproject)
+**Login Page**
 ![Login Page](https://github.com/anniemark2522/project-resume/blob/main/assests/images/login.png)
+
+**Register Page**
+![Login Page](https://github.com/anniemark2522/project-resume/blob/main/assests/images/register.png)
+
+**Main Page**
+![Login Page](https://github.com/anniemark2522/project-resume/blob/main/assests/images/menu.png)
+
+**Pay Ticket Page**
+![Login Page](https://github.com/anniemark2522/project-resume/blob/main/assests/images/payticket.png)
+
+**Unpaid Page**
+![Login Page](https://github.com/anniemark2522/project-resume/blob/main/aassests/images/unpaid.png)
+
+### Project 6: Bus Payment Sysytem
+- **Description**: Developed a bus payment system in Python with admin management functions and user features for seamless operation.
+  - You can view or Download the[Bus Payment Sysytem](https://github.com/anniemark2522/project-resume/blob/main/assests/files/bus_payment_system_FULL.pdf)
