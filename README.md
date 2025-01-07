@@ -46,7 +46,7 @@ Welcome to my **My Project Experience** This repository showcases a collection o
 ![Login Page](https://github.com/anniemark2522/project-resume/blob/main/assests/images/payticket.png)
 
 **Unpaid Page**
-![Login Page](https://github.com/anniemark2522/project-resume/blob/main/aassests/images/unpaid.png)
+![Login Page](https://github.com/anniemark2522/project-resume/blob/main/assests/images/unpaid.png)
 
 ### Project 6: Bus Payment Sysytem
 - **Description**: Developed a bus payment system in Python with admin management functions and user features for seamless operation.
