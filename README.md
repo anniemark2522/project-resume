@@ -72,6 +72,36 @@ Welcome to my **Project Experience** repository. This repository showcases a col
   - You can view or download the [Bus Payment System Report](https://github.com/anniemark2522/project-resume/blob/main/assests/files/bus_payment_system_FULL.pdf)
 
 ---
+### 8. **Daily Track Flutter Mobile Application**
+- **Description**: A personal productivity and lifestyle tracking app built with Flutter & Dart.
+- **Features**: 
+  - 📖 **Book Track** – track book reading progress with a **linear progress bar.
+  - 💸 **Expense Track** – record daily expenses with a calendar view.
+  - 😊 **Mood Track** – log daily mood entries for self-reflection.
+- **Demo**:
+🎥 Watch the demo video: [Daily Track App Demo](assests/clip/RecordDailytrack.mp4)
+- **Repository**:
+👉 Source code available here: [GitHub Repository](https://github.com/anniemark2522/projectflutter)
+
+---
+### 9. **Final Year Project: Smart Travel Companion For Muay Thai Training Camp Exploration**
+- **Description**: A fullstack travel planning web application designed for both Thai users and Muay Thai Visa applicants.  
+The system allows users to explore Muay Thai training camps, plan trips, and get personalized recommendations.
+- **Features**: 
+  - 🏕️ **Muay Thai Gym Selection** – browse and choose Muay Thai training camps
+ - 🎯 **Interest-based Recommendations** – nearby restaurants, accommodations, and attractions
+ - 📑 **Personalized Travel Plans** – save and manage trip itineraries
+ - 🗺️ **Interactive Maps** – integrated Mapbox API + Google Places API for camp and POI visualization
+ - 🖼️ **Media Management** – Cloudinary integration for storing and managing images
+ - 🛠️ **Admin Dashboard** – CRUD operations for camps, attractions,accommodations, and user content
+ - **Demo**:
+🎥 Watch the demo video: [Muay Thai website application](assests/clip/Muay.mov)
+🎥 Watch the demo video: [Muay Thai Admin website application](assests/clip/Admin.mp4)
+- **Repository**: - [Frontend (Next.js + TypeScript)](https://github.com/USERNAME/muaythai-frontend)
+- [Backend (Node.js)](https://github.com/USERNAME/muaythai-backend)
+- [Admin Dashboard](https://github.com/USERNAME/muaythai-admin)
+
+---
 
 ### Technologies Used:
 - **Languages**: Python, Java, C++, C
