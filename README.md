@@ -112,29 +112,24 @@ The system allows users to explore Muay Thai training camps, plan trips, and get
 ## 📌 Overview
 During my internship at **TCC Technology**, I contributed as a **Fullstack Developer Intern** to the development of an **enterprise-scale Customer Master Data (CMD) system**.  
 The project integrates customer data from multiple sources (SAP, BPM, and AI engines) into a centralized platform to ensure accuracy, synchronization, and scalability across the organization.
-
 ## 💻 Responsibilities
 - **Backend (Primary Role)**  
   - Developed services using **Golang (Fiber, GORM)**.  
   - Implemented **Kafka consumers and producers** for real-time event-driven architecture.  
   - Integrated and mapped customer data from **SAP & BPM systems** into **MSSQL Server**.  
   - Designed upsert logic and handled event consistency.  
-
 - **Frontend (Supporting Role)**  
   - Built user interfaces with **Vue 3 + Vite** for the **Physical Group Management module**.  
   - Implemented CRUD operations and table views based on UX/UI design.  
-
 - **Other Contributions**  
   - Participated in **Agile/Scrum ceremonies** (sprint planning, stand-ups, retrospectives).  
   - Collaborated closely with mentors and testers to fix production-like issues after deployment.  
   - Learned to debug and improve performance in large datasets.  
-
 ## 🛠️ Tech Stack
 - **Backend**: Golang (Fiber, GORM), Kafka, MSSQL Server  
 - **Frontend**: Vue 3 + Vite  
 - **Architecture**: Event-driven, microservices approach  
 - **Tools**: GitLab, Postman, Docker, Agile/Scrum  
-
 ## 🚫 Note
 Source code and repositories are private due to company confidentiality.  
 This README serves as a **project summary** showcasing my internship contributions.
