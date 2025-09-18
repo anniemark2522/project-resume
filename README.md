@@ -94,7 +94,7 @@ The system allows users to explore Muay Thai training camps, plan trips, and get
   - 🗺️ **Interactive Maps** – integrated Mapbox API + Google Places API for camp and POI visualization
   - 🖼️ **Media Management** – Cloudinary integration for storing and managing images
   🛠️ **Admin Dashboard** – CRUD operations for camps, attractions,accommodations, and user content
- - **Tech Stack**:  
+## 🛠️ Tech Stack 
   - **Frontend**: Next.js (TypeScript)  
   - **Backend**: Node.js (JavaScript), Firebase Firestore  
   - **APIs**: Mapbox API, Google Places API  
