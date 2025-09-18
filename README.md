@@ -89,11 +89,11 @@ Welcome to my **Project Experience** repository. This repository showcases a col
 The system allows users to explore Muay Thai training camps, plan trips, and get personalized recommendations.
 - **Features**: 
   - 🏕️ **Muay Thai Gym Selection** – browse and choose Muay Thai training camps
- - 🎯 **Interest-based Recommendations** – nearby restaurants, accommodations, and attractions
- - 📑 **Personalized Travel Plans** – save and manage trip itineraries
- - 🗺️ **Interactive Maps** – integrated Mapbox API + Google Places API for camp and POI visualization
- - 🖼️ **Media Management** – Cloudinary integration for storing and managing images
- - 🛠️ **Admin Dashboard** – CRUD operations for camps, attractions,accommodations, and user content
+  - 🎯 **Interest-based Recommendations** – nearby restaurants, accommodations, and attractions
+  - 📑 **Personalized Travel Plans** – save and manage trip itineraries
+  - 🗺️ **Interactive Maps** – integrated Mapbox API + Google Places API for camp and POI visualization
+  - 🖼️ **Media Management** – Cloudinary integration for storing and managing images
+  🛠️ **Admin Dashboard** – CRUD operations for camps, attractions,accommodations, and user content
  - **Tech Stack**:  
   - **Frontend**: Next.js (TypeScript)  
   - **Backend**: Node.js (JavaScript), Firebase Firestore  
