@@ -75,7 +75,7 @@ Welcome to my **Project Experience** repository. This repository showcases a col
 ### 8. **Daily Track Flutter Mobile Application**
 - **Description**: A personal productivity and lifestyle tracking app built with Flutter & Dart.
 - **Features**: 
-  - 📖 **Book Track** – track book reading progress with a **linear progress bar.
+  - 📖 **Book Track** – track book reading progress with a linear progress bar.
   - 💸 **Expense Track** – record daily expenses with a calendar view.
   - 😊 **Mood Track** – log daily mood entries for self-reflection.
 - **Demo**:
@@ -94,18 +94,57 @@ The system allows users to explore Muay Thai training camps, plan trips, and get
  - 🗺️ **Interactive Maps** – integrated Mapbox API + Google Places API for camp and POI visualization
  - 🖼️ **Media Management** – Cloudinary integration for storing and managing images
  - 🛠️ **Admin Dashboard** – CRUD operations for camps, attractions,accommodations, and user content
+ - **Tech Stack**:  
+  - **Frontend**: Next.js (TypeScript)  
+  - **Backend**: Node.js (JavaScript), Firebase Firestore  
+  - **APIs**: Mapbox API, Google Places API  
+  - **Media**: Cloudinary  
+  - **Data**: Web Scraping (Node.js/Puppeteer or Axios/Cheerio)  
+  - **Tools**: Figma (UI/UX Design), GitHub, Draw.io 
  - **Demo**:
-🎥 Watch the demo video: [Muay Thai website application](assests/clip/Muay.mov)
-🎥 Watch the demo video: [Muay Thai Admin website application](assests/clip/Admin.mp4)
-- **Repository**: - [Frontend (Next.js + TypeScript)](https://github.com/USERNAME/muaythai-frontend)
-- [Backend (Node.js)](https://github.com/USERNAME/muaythai-backend)
-- [Admin Dashboard](https://github.com/USERNAME/muaythai-admin)
+🎥 Watch the demo video: [Muay Thai website application](https://drive.google.com/file/d/15wg53M8DmUlytEe5KhqCLQU7HQbAEY_x/view?usp=sharing)
+🎥 Watch the demo Admin video: [Muay Thai Admin website application](https://drive.google.com/file/d/10dgVvy98_mu_or1r8qoe_Pw-t5zsYZwH/view?usp=sharing)
+- **Note**: Source code is private to protect API keys and sensitive configurations. Available upon request.
 
 ---
+### 10. **Internship Project – Customer Master Data (CMD) System**
+
+## 📌 Overview
+During my internship at **TCC Technology**, I contributed as a **Fullstack Developer Intern** to the development of an **enterprise-scale Customer Master Data (CMD) system**.  
+The project integrates customer data from multiple sources (SAP, BPM, and AI engines) into a centralized platform to ensure accuracy, synchronization, and scalability across the organization.
+
+## 💻 Responsibilities
+- **Backend (Primary Role)**  
+  - Developed services using **Golang (Fiber, GORM)**.  
+  - Implemented **Kafka consumers and producers** for real-time event-driven architecture.  
+  - Integrated and mapped customer data from **SAP & BPM systems** into **MSSQL Server**.  
+  - Designed upsert logic and handled event consistency.  
+
+- **Frontend (Supporting Role)**  
+  - Built user interfaces with **Vue 3 + Vite** for the **Physical Group Management module**.  
+  - Implemented CRUD operations and table views based on UX/UI design.  
+
+- **Other Contributions**  
+  - Participated in **Agile/Scrum ceremonies** (sprint planning, stand-ups, retrospectives).  
+  - Collaborated closely with mentors and testers to fix production-like issues after deployment.  
+  - Learned to debug and improve performance in large datasets.  
+
+## 🛠️ Tech Stack
+- **Backend**: Golang (Fiber, GORM), Kafka, MSSQL Server  
+- **Frontend**: Vue 3 + Vite  
+- **Architecture**: Event-driven, microservices approach  
+- **Tools**: GitLab, Postman, Docker, Agile/Scrum  
+
+## 🚫 Note
+Source code and repositories are private due to company confidentiality.  
+This README serves as a **project summary** showcasing my internship contributions.
+
 
 ### Technologies Used:
-- **Languages**: Python, Java, C++, C
-- **Tools**: Tableau, Google Colab, phpMyAdmin, Figma, draw.io
+- **Languages**: Python, Java, C++, C, JavaScript, TypeScript, Dart, Go, C# (basic/.NET)
+- **Frameworks & Libraries**: Flutter, Vue 3 + vite, Next.js, Node.js, Fiber (Golang), GORM, .NET (basic)
+- **Databases**: Firebase Firestore, MSSQL Server, PostgreSQL(basic), phpMyAdmin 
+- **Tools**: Tableau, Google Colab, Figma, Draw.io, Cloudinary, Mapbox API, Google Places API, Kafka, Docker, Git/GitLab
 
 ---
 
